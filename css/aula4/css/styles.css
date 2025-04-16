@@ -1,0 +1,26 @@
+/*
+.classe {
+}
+
+#id {
+}
+
+p {
+}
+*/
+
+.center {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+#main-text {
+  font-size: 32px;
+}
+
+.text-lg {
+  font-size: 20px;
+}
